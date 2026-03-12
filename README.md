@@ -1,96 +1,74 @@
 <h1 align="center">Hi 👋, I'm Saiful Alom</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN & Next.js Enthusiast
-💡 Passionate about building scalable web apps with clean code</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaifulalom&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaifulalom" /> </p>
+<h3 align="center">🚀 Full-Stack Engineer | Edge-Native Specialist
+💡 Building high-performance distributed systems with Hono, Astro, & Cloudflare</h3>
 
-- 🔭 I’m currently working on [bazarbhai.com](https://bazarbhai.com)
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **React js, Nextjs, Express,Nodejs, Mongodb,Web security**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulalomdev&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaifulalom" /> </p>
+
+- 🔭 I’m currently engineering [TrackFlow](https://saifulalom.com/blogs/trackflow)
+- 🌱 I’m currently learning **Advanced DevOps & Systems Architecture**
+- 💬 Ask me about **Astro, Hono, Cloudflare Workers, React, & Web Security**
 - 📫 How to reach me **hello@saifulalom.com**
 - 🌐 Portfolio: [saifulalom.com](https://saifulalom.com)
-- 👨‍💻 All of my projects are available at  [Projects](https://saifulalom.com/#projects)
-- 📝 I regularly write articles on [Blogs](https://saifulalom.com/#articles)
+- 📝 I regularly write blogs on [Blogs](https://saifulalom.com/blogs)
 
-<div> <a href="https://twitter.com/iamsaifulalom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/iamsaifulalom" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:hello@saifulalom.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamsaifulalom" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="c" height="30" width="40" /></a><a href="https://fb.com/saifulalomdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="saifulalomdev" height="30" width="40" /></a><a href="https://www.youtube.com/@iamsaifulalom" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="iamsaifulalom" height="30" width="40" /></a></p>
+<a href="https://twitter.com/iamsaifulalom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/saifulalomdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:hello@saifulalom.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Featured Projects
+
+### [📈 TrackFlow](https://saifulalom.com/blogs/trackflow)
+Privacy-focused analytics engine built on Cloudflare Queues and D1.
+
+### [⏳ SaaS Waitlist](https://waitlist.saifulalom.com)
+High-performance lead capture system utilizing Astro and Edge-native storage.
+
+### [🏬 BazarBhai](https://saifulalom.com/blogs/bazarbhai)
+Hyper-local multi-vendor marketplace ecosystem (Launched July 25, 2025).
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Languages -->
-<h4>Languages</h4>
+<h4>Core Edge Stack</h4>
 <p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/astro-%23333333.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<!-- Frontend -->
-<h4>Frontend</h4>
+<h4>Frontend & Frameworks</h4>
 <p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-   NextJs
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuetify.svg" alt="Vuetify" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/babeljs-icon.svg" alt="Babeljs" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
 </p>
 
-<!-- Backend -->
-<h4>Backend</h4>
+<h4>Backend & Databases</h4>
 <p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
 </p>
 
-<!-- Database -->
-<h4>Database</h4>
+<h4>Infrastructure & Tools</h4>
 <p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
-<!-- Backend as a Service -->
-<h4>Backend as a Service</h4>
-<p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
-
-<!-- DevOps -->
-<h4>DevOps</h4>
-<p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-</p>
-
-<!-- Mobile -->
-<h4>Mobile</h4>
-<p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
-</p>
-
-<!-- Software & Tools -->
-<h4>Software & Tools</h4>
-<p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</p>
-
-<!-- Others -->
-<h4>Others</h4>
-<p align="left">
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-</div>
 
 ### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaifulalom&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaifulalom&show_icons=true&locale=en&theme=default)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulalomdev&layout=compact&theme=vision-friendly-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifulalomdev&show_icons=true&theme=vision-friendly-dark" />
+</p>
