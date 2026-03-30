@@ -57,10 +57,3 @@ Hyper-local multi-vendor marketplace ecosystem (Launched July 25, 2025).
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulalomdev&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifulalomdev&show_icons=true&theme=vision-friendly-dark)
